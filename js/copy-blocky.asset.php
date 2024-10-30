@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('wp-blocks', 'wp-data', 'wp-edit-post', 'wp-element', 'wp-i18n', 'wp-keycodes', 'wp-plugins', 'wp-primitives'), 'version' => '69a5eac899ec2da0ec67d3829bce5d42');
